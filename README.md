@@ -16,7 +16,8 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 **Description Page:** Explore essential movie details and information about the cast.
 
 
-![Sample Image 3](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/beb53c76-4cd1-466d-b32d-97a63555c043)
+![Sample Image 3](<img width="1918" height="916" alt="Screenshot 2025-10-24 104934" src="https://github.com/user-attachments/assets/c8e1ba7a-0536-40ff-831c-62cbed986ced" />
+)
 ![Sample Image 4](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/bb6915a7-8c49-4bd8-ade9-45caeb701d75)
 
 
